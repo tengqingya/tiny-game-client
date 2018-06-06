@@ -1,0 +1,6 @@
+package peoplepackage;
+syntax = "proto3";
+message peopleMessage {
+    string name = 2;
+    int32 age = 1;
+}

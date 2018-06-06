@@ -1,0 +1,13 @@
+{
+  "name": "tiny-game-client",
+  "version": "0.0.1",
+  "private": true,
+  "description": "write by 滕庆亚,qq 475804848",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "protobufjs": "^6.8.6",
+    "ws": "^5.2.0"
+  }
+}

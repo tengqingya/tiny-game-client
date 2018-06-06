@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3c34a21-868e-4a35-8761-c3a80dc75b19" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async-limiter/coverage/lcov-report/sort-arrow-sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proto/a.proto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/test-websockt.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/pbjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/pbjs.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/pbts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/pbts.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/aspromise/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/aspromise/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/aspromise/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/aspromise/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/aspromise/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/aspromise/tests/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/base64/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/base64/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/base64/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/base64/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/base64/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/base64/tests/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/codegen/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/codegen/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/codegen/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/codegen/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/codegen/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/codegen/tests/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/eventemitter/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/eventemitter/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/eventemitter/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/eventemitter/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/eventemitter/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/eventemitter/tests/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/fetch/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/fetch/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/fetch/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/fetch/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/fetch/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/fetch/tests/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/float/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/float/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/float/bench/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/float/bench/suite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/float/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/float/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/float/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/float/tests/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/inquire/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/inquire/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/inquire/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/inquire/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/inquire/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/inquire/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/inquire/tests/data/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/inquire/tests/data/emptyArray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/inquire/tests/data/emptyObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/inquire/tests/data/object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/inquire/tests/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/path/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/path/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/path/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/path/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/path/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/path/tests/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/pool/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/pool/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/pool/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/pool/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/pool/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/pool/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/pool/tests/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/utf8/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/utf8/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/utf8/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/utf8/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/utf8/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/utf8/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/utf8/tests/data/utf8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@protobufjs/utf8/tests/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@types/long/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@types/long/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@types/long/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@types/long/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@types/node/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@types/node/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@types/node/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@types/node/inspector.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@types/node/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async-limiter/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async-limiter/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async-limiter/coverage/coverage.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async-limiter/coverage/lcov-report/async-throttle/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async-limiter/coverage/lcov-report/async-throttle/index.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async-limiter/coverage/lcov-report/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async-limiter/coverage/lcov-report/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async-limiter/coverage/lcov-report/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async-limiter/coverage/lcov-report/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async-limiter/coverage/lcov-report/sorter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async-limiter/coverage/lcov.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async-limiter/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async-limiter/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async-limiter/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/long/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/long/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/long/dist/long.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/long/dist/long.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/long/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/long/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/long/src/long.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/bin/pbjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/bin/pbts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/bin/pbjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/bin/pbts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/lib/tsd-jsdoc.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/lib/tsd-jsdoc/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/lib/tsd-jsdoc/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/lib/tsd-jsdoc/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/lib/tsd-jsdoc/publish.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/package.standalone.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbjs.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbjs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbts.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/targets/json-module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/targets/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/targets/proto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/targets/proto2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/targets/proto3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/targets/static-module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/targets/static.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/wrappers/amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/wrappers/closure.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/wrappers/commonjs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/wrappers/default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/wrappers/es6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/dist/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/dist/light/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/dist/light/protobuf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/dist/light/protobuf.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/dist/light/protobuf.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/dist/light/protobuf.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/dist/minimal/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/dist/minimal/protobuf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/dist/minimal/protobuf.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/dist/minimal/protobuf.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/dist/minimal/protobuf.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/dist/protobuf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/dist/protobuf.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/dist/protobuf.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/dist/protobuf.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/ext/debug/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/ext/debug/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/ext/descriptor/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/ext/descriptor/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/ext/descriptor/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/ext/descriptor/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/google/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/google/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/google/api/annotations.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/google/api/annotations.proto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/google/api/http.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/google/api/http.proto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/google/protobuf/api.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/google/protobuf/api.proto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/google/protobuf/descriptor.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/google/protobuf/descriptor.proto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/google/protobuf/field_mask.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/google/protobuf/field_mask.proto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/google/protobuf/source_context.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/google/protobuf/source_context.proto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/google/protobuf/type.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/google/protobuf/type.proto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/light.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/light.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/minimal.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/minimal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/scripts/changelog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/scripts/postinstall.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/converter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/decoder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/encoder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/enum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/field.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/index-light.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/index-minimal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/mapfield.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/message.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/method.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/namespace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/oneof.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/reader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/reader_buffer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/roots.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/rpc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/rpc/service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/tokenize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/types.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/typescript.jsdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/util/longbits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/util/minimal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/verifier.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/wrappers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/writer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/writer_buffer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tsconfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ws/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ws/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ws/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ws/lib/buffer-util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ws/lib/constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ws/lib/event-target.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ws/lib/extension.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ws/lib/permessage-deflate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ws/lib/receiver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ws/lib/sender.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ws/lib/validation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ws/lib/websocket-server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ws/lib/websocket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ws/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proto/b.proto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proto/p.proto" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="test-websockt" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="32" column="72" lean-forward="false" selection-start-line="32" selection-start-column="72" selection-end-line="32" selection-end-column="72" />
+              <folding>
+                <marker date="1528252006617" expanded="true" signature="1029:1041" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p.proto" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proto/p.proto">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>deserializeBinary</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test-websockt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test-websockt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="template.copyright.formatting" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="D:/node/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Githome\github\test-websockt" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="false" name="start" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="npm.start" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3c34a21-868e-4a35-8761-c3a80dc75b19" name="Default" comment="" />
+      <created>1528208145952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528208145952</updated>
+      <workItem from="1528208148664" duration="6146000" />
+      <workItem from="1528252454931" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6161000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10748156" sideWeight="0.48918468" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10748156" sideWeight="0.5108153" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38238573" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5039019" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5039019" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="72" lean-forward="true" selection-start-line="32" selection-start-column="72" selection-end-line="32" selection-end-column="72" />
+          <folding>
+            <marker date="1528252006617" expanded="true" signature="1029:1041" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proto/p.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="134" column="0" lean-forward="false" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proto/p.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="72" lean-forward="false" selection-start-line="32" selection-start-column="72" selection-end-line="32" selection-end-column="72" />
+          <folding>
+            <marker date="1528252006617" expanded="true" signature="1029:1041" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

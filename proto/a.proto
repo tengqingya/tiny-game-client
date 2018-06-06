@@ -1,0 +1,6 @@
+package ceshipackage;   //包名
+syntax = "proto3";      //指明proto文件的protobuf协议版本，不指明则是v2
+import "./b.proto";     //引用b.proto
+message textMessage {
+    peoplepackage.peopleMessage people = 1;
+}
